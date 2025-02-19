@@ -12,4 +12,4 @@ tecnologias usadas:
 - openai
 - react-chatbotify
 
-  url: https://navidad-react.netlify.app/
+  url: https://react-3chatbot.netlify.app/
