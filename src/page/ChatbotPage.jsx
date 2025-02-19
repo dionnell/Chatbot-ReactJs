@@ -25,7 +25,7 @@ export const ChatbotPage = () => {
             <option value="LLM">Chatbot LLM </option>
           </select>
         </div>
-      </div>
+      </div> 
 
       <div className='grid grid-cols-1 justify-center justify-items-center'> 
       {
