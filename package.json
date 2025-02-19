@@ -10,7 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@fortawesome/react-fontawesome": "^0.2.2",
     "@tailwindcss/vite": "^4.0.7",
     "openai": "^4.85.1",
     "react": "^18.3.1",
